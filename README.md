@@ -104,18 +104,20 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 ## 8. Evidences Collected
 Screenshots collected as evidence are shown below in the same order as the activities:
 
-![WHOIS](screenshots/01-whois.png)
-![WhatWeb](screenshots/02-whatweb.png)
-![Nslookup](screenshots/03-nslookup.png)
-![Curl](screenshots/04-curl.png)
-![Wafw00f](screenshots/05-wafw00f.png)
-![DNSRecon](screenshots/06-dnsrecon.png)
-![GHDB](screenshots/07-ghdb.png)
-![theHarvester Baidu](screenshots/08-harvester-baidu.png)
-![theHarvester All Sources](screenshots/09-harvester-all.png)
-![Ipconfig](screenshots/10-ipconfig.png)
-![Zenmap Output](screenshots/11-zenmap-output.png)
-![Zenmap Topology](screenshots/12-zenmap-topology.png)
-![Zenmap Quiz](screenshots/13-zenmap-quiz.png)
+![WHOIS](Task1-whois.png)
+![WhatWeb](Task2-whatweb.png)
+![Nslookup](Task3-nslookup.png)
+![Curl](Task4-curl.png)
+![Wafw00f](Task5-wafw00f.png)
+![DNSRecon](Task6-dnsrecon.png)
+![GHDB](GHDB.png)
+![theHarvester Baidu](Task1-Baidu.png)
+![theHarvester All Sources](Task2-all.png)
+![theHarvester](theHarvester.png)
+![theHarvester 1](theHarvester1.png)
+![theHarvester 2](theHarvester2.png)
+![Ipconfig](Ip-config.png)
+![Zenmap Output](Nmap.png)
+![Zenmap Topology](Topology.png)
 
 -End-
